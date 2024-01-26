@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android App development
 - 🌱 I’m currently learning Android app development
 - 💞️ I’m looking to collaborate on ...
-- 📫 I'm reachable a iszamir@gmail.com
+- 📫 I'm reachable at iszamir@gmail.com
 - ⚡ Fun fact: Your brain is constantly eating itself. 
 
 <!---
