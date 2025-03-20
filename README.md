@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iszamir
-- 👀 I’m interested in Android App development
-- 🌱 I’m currently learning Android app development
-- 💞️ I live in Malaysia and actively looking for internship/junior android developer roles. 
+- 👀 I’m interested in Android App development, Java backend development, System engineering.
+- 🌱 I’m currently learning Android app development, Java and Spring framework, and System engineering
+- 💞️ I live in Malaysia and actively looking for IT fresh graduate role.
 - 📫 I'm reachable at iszamir@gmail.com
 - ⚡ Fun fact: Your brain is constantly eating itself. 
 
